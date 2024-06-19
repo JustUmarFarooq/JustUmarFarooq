@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="NET" width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Laravel-11.x-red?style=flat&logo=laravel" alt="laravel" width="40" height="40"/> 
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
 </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
